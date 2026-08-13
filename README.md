@@ -12,3 +12,11 @@ To analyze hospital performance using SQL, focusing on:
 ## 🛠️ Tools Used
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
+- 
+## 📊 Queries Included
+| # | Query | Description |
+|---|-------|-------------|
+| 1 | Doctor Performance | Readmission rate & avg LOS per doctor |
+| 2 | Monthly Trends | Readmission rates with previous month comparison using `LAG()` |
+| 3 | Top Diagnoses | Most common diagnoses by volume |
+| 4 | Patient Risk Flags | Patients classified as High / Medium / Low risk using `CASE` |
