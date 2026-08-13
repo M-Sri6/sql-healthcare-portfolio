@@ -1,0 +1,10 @@
+﻿1,John,Smith,46,2,0,Low_risk
+2,Mary,Jones,34,2,2,high_risk
+3,Robert,Johnson,51,2,0," Medium_risk"
+4,Patricia,Williams,61,2,0," Medium_risk"
+5,Michael,Brown,38,2,2,high_risk
+6,Jennifer,Davis,56,2,1," Medium_risk"
+7,William,Miller,31,2,1," Medium_risk"
+8,Linda,Wilson,64,2,0," Medium_risk"
+9,David,Moore,43,2,2,high_risk
+10,Barbara,Taylor,48,2,0,Low_risk
